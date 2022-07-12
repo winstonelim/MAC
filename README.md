@@ -12,7 +12,7 @@ chmod 600 ~/.ssh/<Key파일명>.pem
 
 5) ~/.ssh에 config 파일 생성  
 vi config  
-[내용]
+[내용]  
 *#main  
 Host lim  
 HostName <IP 주소 입력>  
